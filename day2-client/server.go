@@ -3,7 +3,7 @@ package gorpc
 import(
 	"encoding/json"
 	"fmt"
-	"gorpc/day1/codec"
+	"gorpc/day2-client/codec"
 	"io"
 	"log"
 	"net"

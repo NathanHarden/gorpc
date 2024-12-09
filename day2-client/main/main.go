@@ -3,8 +3,8 @@ package main
 import(
 	"encoding/json"
 	"fmt"
-	"gorpc/day1"
-	"gorpc/day1/codec"
+	"gorpc/day2-client"
+	"gorpc/day2-client/codec"
 	"log"
 	"net"
 	"time"
