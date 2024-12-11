@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"gorpc/day2-client/codec"
+	"gorpc/codec"
 	"io"
 	"log"
 	"net"
